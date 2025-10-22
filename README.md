@@ -1,3 +1,3 @@
-hi, this is my special github i use for work. 
+Hi, my name is Lance, I am a Principal Solutions Architect at Mission.
 
-for personal stuff, check me out here: https://github.com/lfglance
+You can find my personal details at my website: https://lfglance.dev
